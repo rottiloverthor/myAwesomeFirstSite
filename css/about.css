@@ -1,0 +1,15 @@
+blockquote {
+    color: gray;
+ <!--not sure if this is a real, found on google fonts-->
+    font-family: Tangerine, serif;
+}
+
+h1 {
+    color: teal;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+p {
+	font-family: helvetica;
+}
